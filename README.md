@@ -1,4 +1,4 @@
-# [阿蓝小站](https://alan.xx.kg)
+### [<-返回小站](https://alan.xx.kg)
 
 # 王者荣耀工具站
 ---
