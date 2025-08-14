@@ -5,13 +5,13 @@
 ##    工具列表
 **无需授权任何权限**
 
-- [自定义房间工具](https://website-hok.github.io/main/cr/)
+- [自定义房间工具](https://hok.alan.xx.kg/cr/)
 
 - [自定义弹幕玩法（仅支持抖音）](https://wj.toutiao.com/q/355630/K83bNs00/83ae/#/)
 
 **需要授权指定目录读写权限**
 
-- [自定义名片背景（视频教程）](https://website-hok.github.io/main/cnb/jc.mp4)
+- [自定义名片背景（视频教程）](https://hok.alan.xx.kg/cnb/jc.mp4)
 
 **需要ROOT权限或框架ㅤ=>ㅤ[框架下载](https://lzlgzs.lanzoum.com/b0excmgzi)**
 
