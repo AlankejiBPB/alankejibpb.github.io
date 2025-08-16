@@ -2,7 +2,7 @@
 
 css样式引用：
 
-'''<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+<link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
     		<style>
 			body {
 				box-sizing: border-box;
