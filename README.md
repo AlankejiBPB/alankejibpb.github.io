@@ -6,7 +6,7 @@ css样式引用：
 
 ```html
 <head>
-    <link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
+    <link rel="stylesheet" href="https://alankejibpb.github.io/css/style.css">
     <style>
     	body {
 	    	box-sizing: border-box;
