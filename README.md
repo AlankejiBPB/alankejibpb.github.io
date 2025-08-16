@@ -2,8 +2,7 @@
 
 css样式引用：
 
-'''
-
+```html
 <link rel="stylesheet" href="https://sindresorhus.com/github-markdown-css/github-markdown.css">
 <style>
 	body {
@@ -20,5 +19,4 @@ css样式引用：
 		}
 	}
 </style>
-
-'''
+```
