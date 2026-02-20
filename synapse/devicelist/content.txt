@@ -1,2 +1,2 @@
-//格式-   设备码：状态  (中文冒号)
+//格式-   设备码：状态  (中文冒号) 1=捐赠 2=黑名单
 Windows---[}PcQa5Qx6@@xbj0G)yXpPL{Rp2!Kp6PkRYF#>sTcLk$s6T}{6C[Q2Rw@：1
